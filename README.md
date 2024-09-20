@@ -10,5 +10,6 @@ A CanSat is a powerful educational tool that simulates a satellite, cleverly des
 * Notes
     * [Pico](./PICO.md)
     * [Circuit](./CIRCUIT.md)
+    * [CAD](./CAD.md)
     * [Code](https://github.com/astrapolito/cansat-code)
     * [FS Scheme](./FS.pdf)
