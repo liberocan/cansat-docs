@@ -2,6 +2,7 @@
 
 * [Schematic](https://github.com/liberocan/cansat-circuits/blob/main/pdf/liberocan1_schematic_v1_03_1.pdf) - licensed with CC-BY-SA 4.0
 * [Gerber and drl](https://github.com/liberocan/cansat-pcb/tree/main/gerber%20and%20drl) - licensed with CERN-OHL-W v2
+* [Components](https://github.com/liberocan/cansat-docs/blob/main/COMPONENTS.csv)
 * Li-Ion & LiPoly Batteries (We are obliged to not use Li-Po): https://learn.adafruit.com/li-ion-and-lipoly-batteries
 * SQ11 and Arduino: https://dntruong.wordpress.com/2018/01/06/testb/comment-page-1/
 * SQ11 Battery update: https://hackaday.io/project/135322-sq11-massive-battery-upgrade
